@@ -1,6 +1,3 @@
-# create data and label for CK+
-#  0=anger 1=disgust, 2=fear, 3=happy, 4=sadness, 5=surprise, 6=contempt
-# contain 135,177,75,207,84,249,54 images
 
 import csv
 import os
