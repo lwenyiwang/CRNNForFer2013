@@ -1,8 +1,6 @@
-'''Train CK+ with PyTorch.'''
-# 10 crop for data enhancement
+
 from __future__ import print_function
-import os
-os.environ["CUDA_VISIBLE_DEVICES"]='3'
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
